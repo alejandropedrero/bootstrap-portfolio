@@ -15,3 +15,16 @@
     rgb(209, 228, 248) 90%
   );
 }
+
+.second-page {
+  background-color: var(--pale-purple);
+}
+
+.navbar {
+  background: rgb(2, 0, 36);
+  background-image: radial-gradient(
+    circle farthest-corner at 10% 20%,
+    rgb(234, 220, 249) 0%,
+    rgb(209, 228, 248) 90%
+  );
+}
