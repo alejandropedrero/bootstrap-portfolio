@@ -1,30 +1,3 @@
-:root {
-  --text-color: #061826;
-  --text-color-lighter: #666666;
-  --text-color-even-lighter: #8f8f8f;
-  --light-orange: #ffdbb5;
-  --pale-purple: #f5e5fc;
-  --blue-text: #0fa7e8;
-}
-
-.first-page {
-  background: rgb(2, 0, 36);
-  background-image: radial-gradient(
-    circle farthest-corner at 10% 20%,
-    rgb(234, 220, 249) 0%,
-    rgb(209, 228, 248) 90%
-  );
-}
-
-.second-page {
-  background-color: var(--pale-purple);
-}
-
-.navbar {
-  background: rgb(2, 0, 36);
-  background-image: radial-gradient(
-    circle farthest-corner at 10% 20%,
-    rgb(234, 220, 249) 0%,
-    rgb(209, 228, 248) 90%
-  );
+h1 {
+  color: red;
 }
